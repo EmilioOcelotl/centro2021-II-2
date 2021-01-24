@@ -7,6 +7,7 @@ Introducción y reflexiones en torno a la programación ¿Hacia dónde va este c
 ## Preliminares
 
 - ¿Cómo funciona este repositorio?
+- Vinculación con Brightspace.
 - Temas a revisar entregas y evaluación.
 - Clase abierta, colaboración y sugerencias. 
 - Lecturas y actividades fuera de Processing.
@@ -26,4 +27,5 @@ Introducción y reflexiones en torno a la programación ¿Hacia dónde va este c
 
 ## Actividades
 
-Leer y discutir - [Taeyoon Choi - Hello World!](http://avant.org/project/hello-world/)
+- Hello World! en Processing
+- Leer y discutir - [Taeyoon Choi - Hello World!](http://avant.org/project/hello-world/)
