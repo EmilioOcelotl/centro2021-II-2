@@ -23,3 +23,7 @@ Introducción y reflexiones en torno a la programación ¿Hacia dónde va este c
 - [Processing](https://processing.org/download/)
   - Instalación y ambiente
   - Ejemplos de códigos en Processing
+
+## Actividades
+
+Leer y discutir - [Taeyoon Choi - Hello World!](http://avant.org/project/hello-world/)
