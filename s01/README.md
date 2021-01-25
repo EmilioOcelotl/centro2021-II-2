@@ -9,8 +9,15 @@ Introducción y reflexiones en torno a la programación ¿Hacia dónde va este c
 - ¿Cómo funciona este repositorio?
 - Vinculación con Brightspace.
 - Temas a revisar entregas y evaluación.
+- Colección de estudios breves con premisas sencillas.
 - Clase abierta, colaboración y sugerencias. 
 - Lecturas y actividades fuera de Processing.
+
+## Ejemplos
+
+Ejemplos de uso creativo del código, como se pueden relacionar con la práctica profesional y con el estilo de la clase. 
+
+[Dimitri Cherniak](https://www.instagram.com/dmitricherniak/) 
 
 ## Introducción
 
@@ -23,8 +30,9 @@ Introducción y reflexiones en torno a la programación ¿Hacia dónde va este c
 - Los 5 principios del código creativo
 - [Processing](https://processing.org/download/)
   - Instalación y ambiente
-  - Ejemplos de códigos en Processing
-
+  - Motor gráfico, lenguaje de programación y entorno de desarrollo integrado.
+  - Ejemplos de códigos
+  
 ## Actividades
 
 - Hello World! en Processing
