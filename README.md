@@ -1,4 +1,4 @@
-![codigo](https://github.com/EmilioOcelotl/centro2021-II-2/blob/main/img/centro.png)f
+![codigo](https://github.com/EmilioOcelotl/centro2021-II-2/blob/main/img/centro.png)
 
 # Código Creativo | Segundo Semestre | 2021-II
 
