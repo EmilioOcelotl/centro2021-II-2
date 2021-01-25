@@ -1,4 +1,4 @@
-![codigo](https://github.com/EmilioOcelotl/centro2021-II-2/blob/main/img/centro.png)
+![codigo](https://github.com/EmilioOcelotl/centro2021-II-2/blob/main/img/centro.png)f
 
 # Código Creativo | Segundo Semestre | 2021-II
 
@@ -6,10 +6,14 @@
 
 ## Sesiones
 
-- [Sesión 01](https://github.com/EmilioOcelotl/centro2021-II-2/blob/main/s01/README.md) - 25.01.11
+- [ ] [Sesión 01](https://github.com/EmilioOcelotl/centro2021-II-2/blob/main/s01/README.md) - 25.01.11
   - ¿Qué es la programación
   - Processing
-  - Actividad para el 1° de feb: Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
+  - Dentro de una semana: Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
+
+## Entregas y actividades
+
+- [ ]  01.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
 
 ## Recursos 
 

@@ -6,11 +6,13 @@ Introducción y reflexiones en torno a la programación ¿Hacia dónde va este c
 
 ## Preliminares
 
-- ¿Cómo funciona este repositorio?
+- Github y el trabajo compartido con texto plano. 
+- ¿Cómo funciona este repositorio? 
 - Vinculación con Brightspace.
 - Temas a revisar entregas y evaluación.
 - Colección de estudios breves con premisas sencillas.
-- Clase abierta, colaboración y sugerencias. 
+- Clase abierta, colaboración y sugerencias.
+- Repositorio para guardar / compartir / actualizar código. 
 - Lecturas y actividades fuera de Processing.
 
 ## Ejemplos
