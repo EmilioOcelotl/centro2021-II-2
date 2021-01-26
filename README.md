@@ -4,6 +4,8 @@
 
 **Objetivo:** Comprender los lenguajes de programación computacional como una práctica creativa para diseño y arte en el entorno de desarrollo Processing.
 
+Ejes del curso: Repetición-Variación 
+
 ## Sesiones
 
 - [ ] [Sesión 01](https://github.com/EmilioOcelotl/centro2021-II-2/blob/main/s01/README.md) - 25.01.11
