@@ -8,10 +8,12 @@ Ejes del curso: Repetición-Variación
 
 ## Sesiones
 
-- [ ] [Sesión 01](https://github.com/EmilioOcelotl/centro2021-II-2/blob/main/s01/README.md) - 25.01.11
+- [x] [Sesión 01](https://github.com/EmilioOcelotl/centro2021-II-2/blob/main/s01/README.md) - 25.01.21
   - ¿Qué es la programación
   - Processing
   - Dentro de una semana: Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
+- [ ] [Sesión 02](https://github.com/EmilioOcelotl/centro2021-II-2/blob/main/s02/README.md) - 27.01.21
+  - Funciones en modo estático
 
 ## Entregas y actividades
 
