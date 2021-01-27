@@ -82,6 +82,7 @@ En este otro, la elipse se encuentra encima debido a que aparece después
 size(480, 120);
 rect(160, 30, 260, 20);
 ellipse(140, 0, 190, 190);
+```
 
 ## Color
 
