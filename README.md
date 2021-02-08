@@ -15,12 +15,15 @@ Ejes del curso: Repetición-Variación
 - [x] [Sesión 02](https://github.com/EmilioOcelotl/centro2021-II-2/blob/main/s02/README.md) - 27.01.21
   - Funciones en modo estático
   - [Código](https://gist.github.com/EmilioOcelotl/0a67d8424fb6cac917eaac6e2a5acd3b)
-- [ ] Sesión 03 - 03.02.21
+- [x] Sesión 03 - 03.02.21
   - Modo Dinámico y variables.
+  - [Código](https://gist.github.com/EmilioOcelotl/5399676917f598ab0b59c979de8902df)
+- [ ] Sesión 04 - 07.02.21
+  - Modo Dinámico y variables II 
 
 ## Entregas y actividades
 
-- [ ]  01.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
+- [x]  01.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
 
 ## Recursos 
 
