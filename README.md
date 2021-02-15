@@ -18,13 +18,21 @@ Ejes del curso: Repetición-Variación
 - [x] Sesión 03 - 03.02.21
   - Modo Dinámico y variables.
   - [Código](https://gist.github.com/EmilioOcelotl/5399676917f598ab0b59c979de8902df)
-- [ ] Sesión 04 - 07.02.21
+- [x] Sesión 04 - 07.02.21
   - Modo Dinámico y variables II 
+- [x] Sesión 05 - 12.02.21
+  - if() color y aleatoriedad
+  - [Código](https://gist.github.com/EmilioOcelotl/381b84fe6419eb7a0bf11ac47bd23070) 
+- [ ] Sesión 06 - 15.02.21
+  - [Plantilla](https://gist.github.com/EmilioOcelotl/84b536ae303c6c3aa54e2dbaa59908a6) inicio 
+  - Repaso general de cara a primera entrega
+  - ejercicio para entregar y keyPressed()
+
 
 ## Entregas y actividades
 
 - [x]  01.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
-
+- [ ]  17.02.21 - Primera entrega: captura de pantalla con variaciones. 
 ## Recursos 
 
 - [Processing](https://processing.org/download/) 
