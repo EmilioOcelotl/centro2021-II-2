@@ -23,16 +23,19 @@ Ejes del curso: Repetición-Variación
 - [x] Sesión 05 - 12.02.21
   - if() color y aleatoriedad
   - [Código](https://gist.github.com/EmilioOcelotl/381b84fe6419eb7a0bf11ac47bd23070) 
-- [ ] Sesión 06 - 15.02.21
+- [x] Sesión 06 - 15.02.21
   - [Plantilla](https://gist.github.com/EmilioOcelotl/84b536ae303c6c3aa54e2dbaa59908a6) inicio 
   - Repaso general de cara a primera entrega
   - ejercicio para entregar y keyPressed()
-
+- [ ] Sesion 07 - 17.02-21
+  - colores y aleatoriedad
+  - [código](https://gist.github.com/EmilioOcelotl/0bf624f72c1b8101982f87c7150eeb93) de la clase anterior
 
 ## Entregas y actividades
 
 - [x]  01.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
-- [ ]  17.02.21 - Primera entrega: captura de pantalla con variaciones. 
+- [ ]  17.02.21 - Primera entrega: captura de pantalla con variaciones. Entrega en [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8750&ou=13064)
+
 ## Recursos 
 
 - [Processing](https://processing.org/download/) 
