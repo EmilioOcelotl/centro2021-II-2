@@ -32,7 +32,7 @@ Ejes del curso: Repetición-Variación
   - [código](https://gist.github.com/EmilioOcelotl/0bf624f72c1b8101982f87c7150eeb93) de la clase anterior
 - [ ] Sesión 08 - 22.02.21
   - Actividad para la siguiente semana: Revisar [Eulerroom](https://www.youtube.com/c/Eulerroom/videos)  
-  - Formas, ruido y densidades > Recomendaciones 
+  - Formas, ruido, sectores y densidades > Recomendaciones 
   - Secuencias y repeticiones > while
   - arreglos y posiciones de múltiples objetos 
   
