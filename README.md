@@ -31,17 +31,17 @@ Ejes del curso: Repetición-Variación
   - colores y aleatoriedad
   - [código](https://gist.github.com/EmilioOcelotl/0bf624f72c1b8101982f87c7150eeb93) de la clase anterior
 - [ ] Sesión 08 - 22.02.21
-  - Actividad para la siguiente semana: Revisar [Eulerroom](https://www.youtube.com/c/Eulerroom/videos)  
   - Formas, ruido, sectores y densidades > Recomendaciones 
   - Secuencias y repeticiones > while
-  - arreglos y posiciones de múltiples objetos 
+  - arreglos y posiciones de múltiples objetos
+  - Dentro de una semana: Leer y discutir [Debugging!](https://p5js.org/learn/debugging.html)
   
 ## Entregas y actividades
 
 - [x]  01.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
 - [x]  17.02.21 - Primera entrega: captura de pantalla con variaciones. Entrega en [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8750&ou=13064)
-- [ ]  24.02.21 - Elegir algún video del canal [Eulerroom](https://www.youtube.com/c/Eulerroom/videos) (preferiblemente con visuales). Lo comentaremos la siguiente sesión.
-
+- [ ]  01.03.21 - Leer y discutir [Debugging!](https://p5js.org/learn/debugging.html)
+)
 ## Recomendaciones
 
 - [Heliodoro Santos](https://twitter.com/HeliodoroSantos) 
