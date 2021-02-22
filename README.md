@@ -27,14 +27,24 @@ Ejes del curso: Repetición-Variación
   - [Plantilla](https://gist.github.com/EmilioOcelotl/84b536ae303c6c3aa54e2dbaa59908a6) inicio 
   - Repaso general de cara a primera entrega
   - ejercicio para entregar y keyPressed()
-- [ ] Sesion 07 - 17.02-21
+- [x] Sesión 07 - 17.02.21
   - colores y aleatoriedad
   - [código](https://gist.github.com/EmilioOcelotl/0bf624f72c1b8101982f87c7150eeb93) de la clase anterior
-
+- [ ] Sesión 08 - 22.02.21
+  - Actividad para la siguiente semana: Revisar [Eulerroom](https://www.youtube.com/c/Eulerroom/videos)  
+  - Formas, ruido y densidades > Recomendaciones 
+  - Secuencias y repeticiones > while
+  - arreglos y posiciones de múltiples objetos 
+  
 ## Entregas y actividades
 
 - [x]  01.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
-- [ ]  17.02.21 - Primera entrega: captura de pantalla con variaciones. Entrega en [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8750&ou=13064)
+- [x]  17.02.21 - Primera entrega: captura de pantalla con variaciones. Entrega en [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8750&ou=13064)
+- [ ]  24.02.21 - Elegir algún video del canal [Eulerroom](https://www.youtube.com/c/Eulerroom/videos) (preferiblemente con visuales). Lo comentaremos la siguiente sesión.
+
+## Recomendaciones
+
+- [Heliodoro Santos](https://twitter.com/HeliodoroSantos) 
 
 ## Recursos 
 
