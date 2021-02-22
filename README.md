@@ -41,7 +41,7 @@ Ejes del curso: Repetición-Variación
 - [x]  01.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
 - [x]  17.02.21 - Primera entrega: captura de pantalla con variaciones. Entrega en [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8750&ou=13064)
 - [ ]  01.03.21 - Leer y discutir [Debugging!](https://p5js.org/learn/debugging.html)
-)
+
 ## Recomendaciones
 
 - [Heliodoro Santos](https://twitter.com/HeliodoroSantos) 
