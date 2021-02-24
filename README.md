@@ -30,12 +30,15 @@ Ejes del curso: Repetición-Variación
 - [x] Sesión 07 - 17.02.21
   - colores y aleatoriedad
   - [código](https://gist.github.com/EmilioOcelotl/0bf624f72c1b8101982f87c7150eeb93) de la clase anterior
-- [ ] Sesión 08 - 22.02.21
+- [x] Sesión 08 - 22.02.21
   - Formas, ruido, sectores y densidades > Recomendaciones 
   - Secuencias y repeticiones > while
   - arreglos y posiciones de múltiples objetos
   - Dentro de una semana: Leer y discutir [Debugging!](https://p5js.org/learn/debugging.html)
-  
+- [ ] Sesion 09 - 24.02.21
+  - while() y transformaciones
+  - espacio y tiempo en la programación 
+
 ## Entregas y actividades
 
 - [x]  01.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
