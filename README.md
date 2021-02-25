@@ -33,10 +33,10 @@ Ejes del curso: Repetición-Variación
 - [x] Sesión 08 - 22.02.21
   - Formas, ruido, sectores y densidades > Recomendaciones 
   - Secuencias y repeticiones > while
-  - arreglos y posiciones de múltiples objetos
   - Dentro de una semana: Leer y discutir [Debugging!](https://p5js.org/learn/debugging.html)
 - [ ] Sesion 09 - 24.02.21
-  - while() y transformaciones
+  - while() y transformaciones > [Código inicial](https://gist.github.com/EmilioOcelotl/b13ee8df53d9153f2ab805e25ad865ae) 
+  - arreglos y posiciones de múltiples objetos
   - espacio y tiempo en la programación 
 
 ## Entregas y actividades
