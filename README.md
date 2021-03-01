@@ -41,7 +41,7 @@ Ejes del curso: Repetición-Variación
   - Primera parte: Arreglos para guardar colores 
   - Segunda parte: [Código](https://gist.github.com/EmilioOcelotl/c5136689a4ff3bb8f7976e874ea57877) para la sesión
   
-  ## Entregas y actividades
+## Entregas y actividades
 
 - [x]  01.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
 - [x]  17.02.21 - Primera entrega: captura de pantalla con variaciones. Entrega en [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8750&ou=13064)
