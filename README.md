@@ -37,15 +37,17 @@ Ejes del curso: Repetición-Variación
 - [x] Sesion 09 - 24.02.21
   - while() y transformaciones > [Código inicial](https://gist.github.com/EmilioOcelotl/b13ee8df53d9153f2ab805e25ad865ae) 
   - espacio y tiempo en la programación 
-- [ ] Sesión 10 - 01.03.21     
+- [x] Sesión 10 - 01.03.21     
   - Primera parte: Arreglos para guardar colores 
   - Segunda parte: [Código](https://gist.github.com/EmilioOcelotl/c5136689a4ff3bb8f7976e874ea57877) para la sesión
+- [ ] Sesión 11 - 03.03.21
+  - Iteración con for() 
   
 ## Entregas y actividades
 
 - [x]  01.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
 - [x]  17.02.21 - Primera entrega: captura de pantalla con variaciones. Entrega en [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8750&ou=13064)
-- [ ]  01.03.21 - Leer y discutir [Debugging!](https://p5js.org/learn/debugging.html)
+- [x]  01.03.21 - Leer y discutir [Debugging!](https://p5js.org/learn/debugging.html)
 
 ## Recomendaciones
 
