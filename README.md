@@ -40,8 +40,11 @@ Ejes del curso: Repetición-Variación
 - [x] Sesión 10 - 01.03.21     
   - Primera parte: Arreglos para guardar colores 
   - Segunda parte: [Código](https://gist.github.com/EmilioOcelotl/c5136689a4ff3bb8f7976e874ea57877) para la sesión
-- [ ] Sesión 11 - 03.03.21
-  - Iteración con for() 
+- [x] Sesión 11 - 03.03.21
+  - Iteración con for()
+- [ ] Sesión 12 - 08.03.21
+  - transformaciones y sistema de coordenadas
+  - repeticiones con for(), pushMatrix y popMatrix 
   
 ## Entregas y actividades
 
@@ -51,6 +54,7 @@ Ejes del curso: Repetición-Variación
 
 ## Recomendaciones
 
+- [Notas de Ausencia](https://www.notasdeausencia.cc/) - Marianne Teixido 
 - [Heliodoro Santos](https://twitter.com/HeliodoroSantos) 
 
 ## Recursos 
