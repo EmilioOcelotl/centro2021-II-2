@@ -42,9 +42,12 @@ Ejes del curso: Repetición-Variación
   - Segunda parte: [Código](https://gist.github.com/EmilioOcelotl/c5136689a4ff3bb8f7976e874ea57877) para la sesión
 - [x] Sesión 11 - 03.03.21
   - Iteración con for()
-- [ ] Sesión 12 - 08.03.21
+- [x] Sesión 12 - 08.03.21
   - transformaciones y sistema de coordenadas
   - repeticiones con for(), pushMatrix y popMatrix 
+- [ ] Sesión 13- 10.03.21
+  - map y for anidados
+  - Ideas entrega parcial
   
 ## Entregas y actividades
 
