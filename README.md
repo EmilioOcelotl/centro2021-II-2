@@ -54,7 +54,7 @@ Ejes del curso: Repetición-Variación
 ## Entregas y actividades
 
 - [x]  01.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
-- [x]  17.02.21 - Primera entrega: captura de pantalla con variaciones. Entrega en [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8750&ou=13064) > [Código](https://gist.github.com/EmilioOcelotl/0bf624f72c1b8101982f87c7150eeb93) para resolver la entrega. 
+- [x]  17.02.21 - Primera entrega en [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8750&ou=13064) > [Código](https://gist.github.com/EmilioOcelotl/0bf624f72c1b8101982f87c7150eeb93) para resolver la entrega. 
 - [x]  01.03.21 - Leer y discutir [Debugging!](https://p5js.org/learn/debugging.html)
 - [x]  01.03.21 - Segunda entrega en [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=9106&ou=13064) > [Código](https://gist.github.com/EmilioOcelotl/c5136689a4ff3bb8f7976e874ea57877) para resolver la entrega.
 - [ ]  17.03.21 - Entrega Final en [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=9515&ou=13064) > [Código](https://gist.github.com/EmilioOcelotl/789f0ebb1a3fb1e7c85671425e93e0f3) para resolver la entrega. 
