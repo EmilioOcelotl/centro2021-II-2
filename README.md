@@ -45,15 +45,19 @@ Ejes del curso: Repetición-Variación
 - [x] Sesión 12 - 08.03.21
   - transformaciones y sistema de coordenadas
   - repeticiones con for(), pushMatrix y popMatrix 
-- [ ] Sesión 13- 10.03.21
+- [x] Sesión 13 - 10.03.21
   - map y for anidados
   - Ideas entrega parcial
-  
+- [ ] Sesión 14 - 17.03.21
+  - Entrega final > [Código](https://gist.github.com/EmilioOcelotl/789f0ebb1a3fb1e7c85671425e93e0f3) 
+
 ## Entregas y actividades
 
 - [x]  01.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
 - [x]  17.02.21 - Primera entrega: captura de pantalla con variaciones. Entrega en [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8750&ou=13064)
 - [x]  01.03.21 - Leer y discutir [Debugging!](https://p5js.org/learn/debugging.html)
+- [x]  01.03.21 - Segunda entrega en [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=9106&ou=13064)
+- [ ]  17.03.21 - Entrega Final en [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=9515&ou=13064) - [Código](https://gist.github.com/EmilioOcelotl/789f0ebb1a3fb1e7c85671425e93e0f3) de la entrega. 
 
 ## Recomendaciones
 
@@ -77,7 +81,7 @@ Ejes del curso: Repetición-Variación
 
 ## Evaluación
 
-- **Carpeta de trabajos finales:** selección de al menos 5 trabajos realizados durante el semestre con sus respectivas variaciones 25%
+- **Carpeta de trabajos finales:** selección de al menos 3 trabajos realizados durante el semestre con sus respectivas variaciones 25%
 - **Lecturas:** Form and Code 10%
 - **Primer parcial:** participación 5% y ejercicio a entregar 20%
 - **Segundo parcial:** participación 5% y ejercicio a entregar 20%
