@@ -49,6 +49,9 @@ Ejes del curso: Repetición-Variación
   - map y for anidados
   - Ideas entrega parcial
 - [ ] Sesión 14 - 17.03.21
+  - Evaluación docente
+  - Variación y repetición > Recomendación
+  - Entregas pendientes
   - Entrega final > [Código](https://gist.github.com/EmilioOcelotl/789f0ebb1a3fb1e7c85671425e93e0f3) 
 
 ## Entregas y actividades
@@ -63,6 +66,7 @@ Ejes del curso: Repetición-Variación
 
 - [Notas de Ausencia](https://www.notasdeausencia.cc/) - Marianne Teixido 
 - [Heliodoro Santos](https://twitter.com/HeliodoroSantos) 
+- [Renick Bell](https://www.instagram.com/renickbell/)
 
 ## Recursos 
 
